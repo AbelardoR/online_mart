@@ -19,7 +19,7 @@ msgid "online_mart"
 msgstr ""
 
 #. Theme URI of the theme
-msgid ""
+msgid "https://github.com/AbelardoR/online_mart"
 msgstr ""
 
 #. Description of the theme
