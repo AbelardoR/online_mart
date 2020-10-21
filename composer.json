@@ -1,0 +1,13 @@
+{
+    "name": "jairo/themes",
+    "description": "Hi. I'm a starter theme called online mart",
+    "type": "theme, wordpress, online store",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Abelardo Recalde",
+            "email": "j26a90@gmail.com"
+        }
+    ],
+    "require": {}
+}
